@@ -4,20 +4,13 @@ A bot for Discord written in Python to check someones Tweets using interactive G
 # Usage
 * `/menu`. That's it.
 
-# Installation
-
-### To install Twitter-Discord-Bot you have two options
-install (no python needed) | manual (python needed)
--|-
-Go to [releases](https://github.com/heyngra/Twitter-Discord-Bot/releases) and download latest version. | Go to [releases](https://github.com/heyngra/Twitter-Discord-Bot/releases) and download latest version. |
-Download install file. | Download source code.
-Run the file. | Unzip |
-| | Open pkginstall.py |
-| Run the main.py | Run the main.py |
-| Fill up data in tokens.py | <--- |
-| Discord Bot Token from [here](https://discord.com/developers) | <--- |
-| Twitter API data from [here](https://dev.twitter.com) | <--- |
-| Run the main.py again. | <--- |
+# Installation.
+You need to have Python installed. Download it from [here](https://www.python.org/downloads/)
+1. Download Source Code.
+2. Run the `pkginstall.py`.
+3. Open `main.py`.
+4. Fill values in tokens.py. You need Discord Bot Token from [here](https://discord.com/developers) and Twitter OAuth2 keys from [here](https://dev.twitter.com).
+5. Run the `main.py` again.
 
 # Contribute
 Feel free to add changes to the bot!
